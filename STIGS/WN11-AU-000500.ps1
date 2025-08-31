@@ -12,6 +12,7 @@
     GitHub    : https://github.com/Thierno16/
 
 .NOTES
+    Author          : Thierno Bah
     Date Created    : 2025-08-31
     Last Modified   : 2025-08-31
     Version         : 1.0
@@ -39,10 +40,6 @@ PS C:\Windows\system32> <#
 >>   Ensures the Application event log size is set to at least 32768 KB
 >>   by updating the registry value:
 >>   HKLM:\SOFTWARE\Policies\Microsoft\Windows\EventLog\Application\MaxSize
->>
->> .NOTES
->>   Author: Thierno Bah
->>   Date:   2025-08-31
 >> #>
 PS C:\Windows\system32>
 PS C:\Windows\system32> # Define registry path and required size (in KB)
