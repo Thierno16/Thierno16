@@ -9,8 +9,12 @@ This portfolio documents my IAM and cybersecurity projects, including architectu
 ## 🔐 Identity & Access Management Projects
 
 - **[Microsoft Entra ID → AWS IAM Identity Center: SAML SSO & SCIM Provisioning](https://github.com/Thierno16/Entra-AWS-IAM-Identity-Center-Lab)**
-  - Enterprise IAM integration using Microsoft Entra ID and AWS IAM Identity Center.
-  - Implemented SAML 2.0 SSO, SCIM 2.0 provisioning, Joiner-Mover-Leaver lifecycle management, group-based access, and least-privilege authorization
+  - Built an enterprise IAM integration between Microsoft Entra ID and AWS IAM Identity Center.
+  - Implemented **SAML 2.0 SSO, SCIM 2.0 provisioning, Joiner-Mover-Leaver (JML) lifecycle management, group-based access, and least-privilege authorization**.
+
+- **[Microsoft Entra ID Identity Lifecycle Automation with Microsoft Graph PowerShell SDK](https://github.com/Thierno16/EntraID-Automation-with-Microsoft-Graph-PowerShell-SDK-Lab)**
+  - Built a PowerShell-based identity lifecycle automation framework for **Microsoft Entra ID** using the **Microsoft Graph PowerShell SDK**.
+  - Automated IAM operations including **user provisioning, identity lifecycle workflows, validation, logging, and Microsoft Graph-based administration**.
 
 
 ## ⚠️ Vulnerability Management Projects
