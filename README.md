@@ -1,6 +1,16 @@
-# <a href="https://www.linkedin.com/in/thierno-bah-95931259/">thierno-bah-95931259/</a>'s IT and Cybersecurity Project Portfolio 🔐
+# Thierno Bah | Identity & Access Management (IAM) & Cybersecurity Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+I'm an IT and cybersecurity professional with a growing specialization in **Identity and Access Management (IAM)**. My hands-on projects focus on building and securing identity solutions across **Microsoft Entra ID, AWS IAM Identity Center, identity governance, SSO, federation, automated provisioning, and identity lifecycle management**.
+
+Through practical labs, I work with technologies and concepts such as **SAML, OAuth 2.0, OpenID Connect (OIDC), SCIM, RBAC, Joiner-Mover-Leaver (JML) processes, least-privilege access, and PowerShell/Microsoft Graph automation**. My goal is to demonstrate not only how IAM technologies are configured, but how they work together to solve real-world identity, access, governance, and security challenges.
+
+This portfolio documents my IAM and cybersecurity projects, including architecture, implementation, troubleshooting, lifecycle testing, and security controls.
+
+## 🔐 Identity & Access Management Projects
+
+- **[Microsoft Entra ID → AWS IAM Identity Center: SAML SSO & SCIM Provisioning](https://github.com/Thierno16/Entra-AWS-IAM-Identity-Center-Lab)**
+  - Enterprise IAM integration using Microsoft Entra ID and AWS IAM Identity Center.
+  - Implemented SAML 2.0 SSO, SCIM 2.0 provisioning, Joiner-Mover-Leaver lifecycle management, group-based access, and least-privilege authorization
 
 
 ## ⚠️ Vulnerability Management Projects
